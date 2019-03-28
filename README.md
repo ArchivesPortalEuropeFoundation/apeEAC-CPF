@@ -15,3 +15,7 @@ When reporting an issue, the following should be provided:
 * Example for usage of the changed element (including potential attributes) in the portal (use case)
 * Example of XML code to such a request (in case of a conversion issue, the XML should ideally show the way an issue is dealt with now 
   and the way one would like it to be dealt with in the future)
+
+
+Note:
+More comprehensive information and documentation on apeEAC-CPF can be found in the Archives Portal Europe Wiki - http://wiki.archivesportaleurope.net/index.php/apeEAC-CPF
